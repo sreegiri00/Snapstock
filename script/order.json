@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name": "Mobee Tech",
+        "logo": "https://png.pngtree.com/templates/sm/20180422/sm_5adc7e6acede1.jpg",
+        "saleItems": [
+            {
+                "catName": "mobile-accessories",
+                "url": "https://dummyjson.com/products/category/mobile-accessories",
+                "id": [90, 100, 102, 104, 106]
+            },
+            {
+                "catName": "smartphones",
+                "url": "https://dummyjson.com/products/category/smartphones",
+                "id": [121, 122, 126, 128, 129]
+            },
+            {
+                "catName": "tablets",
+                "url": "https://dummyjson.com/products/category/tablets",
+                "id": [159, 160, 161]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "ABC Company",
+        "logo": "https://png.pngtree.com/templates/sm/20180422/sm_5adc7e6acede1.jpg",
+        "saleItems": [
+            {
+                "catName": "beauty",
+                "url": "https://dummyjson.com/products/category/beauty",
+                "id": [1, 2, 3, 4]
+            },
+            {
+                "catName": "fragrances",
+                "url": "https://dummyjson.com/products/category/fragrances",
+                "id": [6, 7, 8, 9]
+            },
+            {
+                "catName": "furniture",
+                "url": "https://dummyjson.com/products/category/furniture",
+                "id": [11, 12, 13, 14]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "SG Products",
+        "logo": "https://png.pngtree.com/templates/sm/20180422/sm_5adc7e6acede1.jpg",
+        "saleItems": [
+            {
+                "catName": "mens-shoes",
+                "url": "https://dummyjson.com/products/category/mens-shoes",
+                "id": [88, 90, 92, 91]
+            },
+            {
+                "catName": "mens-watches",
+                "url": "https://dummyjson.com/products/category/mens-watches",
+                "id": [93, 94, 96, 98]
+            },
+            {
+                "catName": "sports-accessories",
+                "url": "https://dummyjson.com/products/category/sports-accessories",
+                "id": [137, 138, 140, 141]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Sankuman & Sons",
+        "logo": "https://png.pngtree.com/templates/sm/20180422/sm_5adc7e6acede1.jpg",
+        "saleItems": [
+            {
+                "catName": "sunglasses",
+                "url": "https://dummyjson.com/products/category/sunglasses",
+                "id": [154, 156, 155, 157]
+            },
+            {
+                "catName": "tops",
+                "url": "https://dummyjson.com/products/category/tops",
+                "id": [162, 163, 164, 166]
+            },
+            {
+                "catName": "womens-watches",
+                "url": "https://dummyjson.com/products/category/womens-watches",
+                "id": [185, 186, 187, 188]
+            }
+        ]
+    }
+]
